@@ -1,12 +1,12 @@
-# 📊 Supply Chain Dashboard – Detailed Analysis
+# Supply Chain Dashboard – Detailed Analysis
 
-## 📘 Project Background
+## Project Background
 Efficient supply chain management is essential for businesses to meet customer demands while minimizing operational inefficiencies. A comprehensive dashboard was developed to provide a holistic view of the business’s performance across key dimensions such as sales, customers, orders, operations, and inventory. This dashboard integrates transactional-level order data with monthly inventory snapshots to empower the Supply Chain, Sales, and Operations leadership teams with actionable insights that enhance decision-making and drive business success.
 
-## ❗ Problem Statement
+## Problem Statement
 The organization lacked a centralized and visual system to monitor key operational metrics, resulting in disconnected decision-making across departments. Limited visibility into sales trends, customer behavior, and inventory dynamics hindered the ability to make informed decisions, leading to inefficient resource allocation, inaccurate forecasts, and over-purchasing.
 
-## 🎯 Objective
+## Objective
 The objective of this dashboard is to empower the Supply Chain, Sales, and Operations leadership teams with a data-driven tool to:
 - Monitor sales, customer, and order metrics in real-time  
 - Identify trends and patterns in customer behavior  
@@ -15,7 +15,7 @@ The objective of this dashboard is to empower the Supply Chain, Sales, and Opera
 
 ---
 
-## 🧠 Executive Summary
+## Executive Summary
 This supply chain dashboard provides an integrated view of sales performance, customer behavior, operational efficiency, and inventory health. By analyzing data across a rolling 6-month window, the dashboard enables stakeholders to identify trends, detect anomalies, and make proactive decisions.
 
 Key findings include:
@@ -32,7 +32,7 @@ These insights guided strategic recommendations aimed at expanding into new mark
 
 ---
 
-## 🖼️ Dashboard Overview
+## Dashboard Overview
 
 Below are the 5 key dashboards that provide a comprehensive view of the supply chain performance. Each dashboard focuses on a different business dimension:
 
@@ -50,12 +50,12 @@ Below are the 5 key dashboards that provide a comprehensive view of the supply c
 
 ---
 
-## 🔍 Insight 1: Sales and Customer Concentration Across Top Markets
+## Insight 1: Sales and Customer Concentration Across Top Markets
 - Top 5 countries contribute approximately 39% of total sales  
 - Remaining countries, though more in number, contribute only 61% of sales  
 - Indicates a high dependency on a few markets for revenue  
 
-📌 Interpretation:  
+Interpretation:  
 The business is heavily reliant on a few geographical regions. Diversification into underpenetrated markets is essential to mitigate risk and uncover new growth opportunities.
 
 <p align="center">
@@ -65,12 +65,12 @@ The business is heavily reliant on a few geographical regions. Diversification i
 </p>
 ---
 
-## 🔍 Insight 2: Seasonal Dip in February 2017 Across All KPIs
+## Insight 2: Seasonal Dip in February 2017 Across All KPIs
 - Sales, orders, and customer count dipped significantly in Feb 2017  
 - Orders and customers dropped by approximately 8.5% compared to prior months  
 - All three KPIs (Orders, Customers, Sales) declined simultaneously  
 
-📌 Interpretation:  
+Interpretation:  
 Seasonal factors likely contributed to the dip. Proactive planning and marketing campaigns are necessary to counter predictable seasonal downturns and ensure consistent performance.
 
 <p align="center">
@@ -80,12 +80,12 @@ Seasonal factors likely contributed to the dip. Proactive planning and marketing
 </p>
 ---
 
-## 🔍 Insight 3: Subtle Decline in Order Volume Despite Overall Stability
+## Insight 3: Subtle Decline in Order Volume Despite Overall Stability
 - Orders are showing a subtle decline of 2.6 percentage points  
 - Sales and customer count remain relatively stable  
 - Indicates stagnation in order activity  
 
-📌 Interpretation:  
+Interpretation:  
 Stagnant order volumes suggest a slowdown in customer purchasing behavior or acquisition. Strategies to re-engage existing customers and attract new ones are necessary.
 
 <p align="center">
@@ -96,23 +96,23 @@ Stagnant order volumes suggest a slowdown in customer purchasing behavior or acq
 
 ---
 
-## 🔍 Insight 4: Dominance of the Consumer Segment in Revenue Contribution
+## Insight 4: Dominance of the Consumer Segment in Revenue Contribution
 - Consumer segment accounts for 51.9% of total orders  
 - Corporate and Home Office segments show potential but underperform relative to Consumer  
 
-📌 Interpretation:  
+Interpretation:  
 The Consumer segment is driving most of the revenue. Focused efforts to grow the B2B segments (Corporate and Home Office) could lead to higher-margin revenue streams and diversification.
 
 ![alt text](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%204%20-%201.jpg)
 
 ---
 
-## 🔍 Insight 5: High Non-Adherence to Delivery Schedule and Pending Orders
+## Insight 5: High Non-Adherence to Delivery Schedule and Pending Orders
 - 54.78% of orders are not adhering to the scheduled delivery date  
 - 28.64% of orders are in a pending status  
 - Indicates operational inefficiencies in order processing and delivery  
 
-📌 Interpretation:  
+Interpretation:  
 High pending and late orders suggest issues in fulfillment processes. Streamlining logistics and addressing operational bottlenecks can improve customer satisfaction and reduce churn.
 
 <p align="center">
@@ -122,11 +122,11 @@ High pending and late orders suggest issues in fulfillment processes. Streamlini
 
 ---
 
-## 🔍 Insight 6: Forecasted Dip in Sales and Orders – July to August 2017
+## Insight 6: Forecasted Dip in Sales and Orders – July to August 2017
 - SARIMA model predicts a 2% dip in sales and order volume in July-Aug 2017  
 - Based on 6-month historical trend analysis  
 
-📌 Interpretation:  
+Interpretation:  
 Anticipated slowdown requires proactive measures such as promotional campaigns and optimized inventory planning to maintain business momentum during forecasted slow periods.
 
 <p align="center">
@@ -136,34 +136,34 @@ Anticipated slowdown requires proactive measures such as promotional campaigns a
 
 ---
 
-## 🔍 Insight 7: Inventory Overbuild with Stagnant Sales – Signs of Forecasting Inaccuracy
+## Insight 7: Inventory Overbuild with Stagnant Sales – Signs of Forecasting Inaccuracy
 - Inventory has increased by 15% while sales have remained flat  
 - Indicates over-purchasing due to inaccurate demand forecasts  
 - SARIMA model has been implemented to improve forecasting accuracy  
 
-📌 Interpretation:  
+Interpretation:  
 Excess inventory can lead to increased holding costs and waste. Accurate forecasting models and responsive inventory planning are critical to align supply with actual demand.
 
 ![alt text](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%207%20-%201.jpg)
 
 ---
 
-## 🔍 Insight 8: Competitive Pricing Gap in Nearly Half the Catalog
+## Insight 8: Competitive Pricing Gap in Nearly Half the Catalog
 - 47% of SKUs are priced higher than competitors  
 - May lead to reduced sales and customer churn  
 
-📌 Interpretation:  
+Interpretation:  
 Price competitiveness is crucial in a highly competitive market. Regular benchmarking and dynamic pricing strategies can help retain price-sensitive customers and boost sales.
 
 ![alt text](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%208%20-%201.jpg)
 
 ---
 
-## 🔍 Insight 9: Customer Retention Stable, but New Acquisition Sluggish
+## Insight 9: Customer Retention Stable, but New Acquisition Sluggish
 - Retention metrics are stable, indicating loyal customer base  
 - However, growth in new customer acquisition is stagnant  
 
-📌 Interpretation:  
+Interpretation:  
 While customer retention is strong, limited new customer acquisition could hinder long-term growth. Investment in marketing and customer acquisition strategies is necessary.
 
 <p align="center">
@@ -173,7 +173,7 @@ While customer retention is strong, limited new customer acquisition could hinde
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 1. **Expand into Underpenetrated Markets**  
    - Target regions with low sales contribution to diversify risk and increase revenue.
@@ -204,7 +204,7 @@ While customer retention is strong, limited new customer acquisition could hinde
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Tableau** – Dashboard Development  
 - **Python** – Forecasting & Data Analysis (SARIMA)  
 - **Excel** – Data Cleaning & Exploratory Analysis  
