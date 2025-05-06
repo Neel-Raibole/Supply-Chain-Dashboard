@@ -59,9 +59,9 @@ Interpretation:
 The business is heavily reliant on a few geographical regions. Diversification into underpenetrated markets is essential to mitigate risk and uncover new growth opportunities.
 
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%201.jpg" alt="IDD 1 - 1" width="333"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%202.jpg" alt="IDD 1 - 2" width="333"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%203.jpg" alt="IDD 1 - 3" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%201.jpg" alt="IDD 1 - 1" width="300"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%202.jpg" alt="IDD 1 - 2" width="300"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%203.jpg" alt="IDD 1 - 3" width="300"/>
 </p>
 ---
 
@@ -74,9 +74,9 @@ Interpretation:
 Seasonal factors likely contributed to the dip. Proactive planning and marketing campaigns are necessary to counter predictable seasonal downturns and ensure consistent performance.
 
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%201.jpg" alt="IDD 1 - 1" width="333"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%202.jpg" alt="IDD 1 - 2" width="333"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%203.jpg" alt="IDD 1 - 3" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%201.jpg" alt="IDD 1 - 1" width="300"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%202.jpg" alt="IDD 1 - 2" width="300"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%203.jpg" alt="IDD 1 - 3" width="300"/>
 </p>
 ---
 
@@ -89,9 +89,9 @@ Interpretation:
 Stagnant order volumes suggest a slowdown in customer purchasing behavior or acquisition. Strategies to re-engage existing customers and attract new ones are necessary.
 
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%201.jpg" alt="IDD 1 - 1" width="333"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%202.jpg" alt="IDD 1 - 2" width="333"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%203.jpg" alt="IDD 1 - 3" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%201.jpg" alt="IDD 1 - 1" width="300"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%202.jpg" alt="IDD 1 - 2" width="300"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%203.jpg" alt="IDD 1 - 3" width="300"/>
 </p>
 
 ---
@@ -116,8 +116,8 @@ Interpretation:
 High pending and late orders suggest issues in fulfillment processes. Streamlining logistics and addressing operational bottlenecks can improve customer satisfaction and reduce churn.
 
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%205%20-%201.jpg" alt="IDD 1 - 1" width="500"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%205%20-%202.jpg" alt="IDD 1 - 2" width="500"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%205%20-%201.jpg" alt="IDD 1 - 1" width="475"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%205%20-%202.jpg" alt="IDD 1 - 2" width="475"/>
 </p>
 
 ---
@@ -130,8 +130,8 @@ Interpretation:
 Anticipated slowdown requires proactive measures such as promotional campaigns and optimized inventory planning to maintain business momentum during forecasted slow periods.
 
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%206%20-%201.jpg" alt="IDD 1 - 1" width="500"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%206%20-%202.jpg" alt="IDD 1 - 2" width="500"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%206%20-%201.jpg" alt="IDD 1 - 1" width="475"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%206%20-%202.jpg" alt="IDD 1 - 2" width="475"/>
 </p>
 
 ---
@@ -167,8 +167,8 @@ Interpretation:
 While customer retention is strong, limited new customer acquisition could hinder long-term growth. Investment in marketing and customer acquisition strategies is necessary.
 
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%209%20-%201.jpg" alt="IDD 1 - 1" width="500"/>
-  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%209%20-%202.jpg" alt="IDD 1 - 2" width="500"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%209%20-%201.jpg" alt="IDD 1 - 1" width="475"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%209%20-%202.jpg" alt="IDD 1 - 2" width="475"/>
 </p>
 
 ---
