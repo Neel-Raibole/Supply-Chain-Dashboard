@@ -32,6 +32,24 @@ These insights guided strategic recommendations aimed at expanding into new mark
 
 ---
 
+## 🖼️ Dashboard Overview
+
+Below are the 5 key dashboards that provide a comprehensive view of the supply chain performance. Each dashboard focuses on a different business dimension:
+
+1. **Landing Page Dashboard**
+2. **Sales Performance Dashboard**
+3. **Customer Behavior Dashboard**
+4. **Order Management Dashboard**
+5. **Inventory & Forecasting Dashboard**
+
+![Landing Page Dashboard](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/DB%20Image%20LP.jpg)
+![Sales Dashboard](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/DB%20Image%20SDB.jpg)
+![Customer Dashboard](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/DB%20Image%20CDB.jpg)
+![Orders Dashboard](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/DB%20Image%20ODB.jpg)
+![Inventory & Forecasting Dashboard](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/DB%20Image%20ISFDB.jpg)
+
+---
+
 ## 🔍 Insight 1: Sales and Customer Concentration Across Top Markets
 - Top 5 countries contribute approximately 39% of total sales  
 - Remaining countries, though more in number, contribute only 61% of sales  
@@ -40,8 +58,11 @@ These insights guided strategic recommendations aimed at expanding into new mark
 📌 Interpretation:  
 The business is heavily reliant on a few geographical regions. Diversification into underpenetrated markets is essential to mitigate risk and uncover new growth opportunities.
 
-![alt text](http://url/to/img.png)
-
+<p align="center">
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%201.jpg" alt="IDD 1 - 1" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%202.jpg" alt="IDD 1 - 2" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%201%20-%203.jpg" alt="IDD 1 - 3" width="333"/>
+</p>
 ---
 
 ## 🔍 Insight 2: Seasonal Dip in February 2017 Across All KPIs
