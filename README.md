@@ -73,8 +73,11 @@ The business is heavily reliant on a few geographical regions. Diversification i
 📌 Interpretation:  
 Seasonal factors likely contributed to the dip. Proactive planning and marketing campaigns are necessary to counter predictable seasonal downturns and ensure consistent performance.
 
-![alt text](http://url/to/img.png)
-
+<p align="center">
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%201.jpg" alt="IDD 1 - 1" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%202.jpg" alt="IDD 1 - 2" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%202%20-%203.jpg" alt="IDD 1 - 3" width="333"/>
+</p>
 ---
 
 ## 🔍 Insight 3: Subtle Decline in Order Volume Despite Overall Stability
@@ -85,7 +88,11 @@ Seasonal factors likely contributed to the dip. Proactive planning and marketing
 📌 Interpretation:  
 Stagnant order volumes suggest a slowdown in customer purchasing behavior or acquisition. Strategies to re-engage existing customers and attract new ones are necessary.
 
-![alt text](http://url/to/img.png)
+<p align="center">
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%201.jpg" alt="IDD 1 - 1" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%202.jpg" alt="IDD 1 - 2" width="333"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%203%20-%203.jpg" alt="IDD 1 - 3" width="333"/>
+</p>
 
 ---
 
@@ -96,7 +103,7 @@ Stagnant order volumes suggest a slowdown in customer purchasing behavior or acq
 📌 Interpretation:  
 The Consumer segment is driving most of the revenue. Focused efforts to grow the B2B segments (Corporate and Home Office) could lead to higher-margin revenue streams and diversification.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%204%20-%201.jpg)
 
 ---
 
@@ -108,7 +115,10 @@ The Consumer segment is driving most of the revenue. Focused efforts to grow the
 📌 Interpretation:  
 High pending and late orders suggest issues in fulfillment processes. Streamlining logistics and addressing operational bottlenecks can improve customer satisfaction and reduce churn.
 
-![alt text](http://url/to/img.png)
+<p align="center">
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%205%20-%201.jpg" alt="IDD 1 - 1" width="500"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%205%20-%202.jpg" alt="IDD 1 - 2" width="500"/>
+</p>
 
 ---
 
@@ -119,7 +129,10 @@ High pending and late orders suggest issues in fulfillment processes. Streamlini
 📌 Interpretation:  
 Anticipated slowdown requires proactive measures such as promotional campaigns and optimized inventory planning to maintain business momentum during forecasted slow periods.
 
-![alt text](http://url/to/img.png)
+<p align="center">
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%206%20-%201.jpg" alt="IDD 1 - 1" width="500"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%206%20-%202.jpg" alt="IDD 1 - 2" width="500"/>
+</p>
 
 ---
 
@@ -131,7 +144,7 @@ Anticipated slowdown requires proactive measures such as promotional campaigns a
 📌 Interpretation:  
 Excess inventory can lead to increased holding costs and waste. Accurate forecasting models and responsive inventory planning are critical to align supply with actual demand.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%207%20-%201.jpg)
 
 ---
 
@@ -142,7 +155,7 @@ Excess inventory can lead to increased holding costs and waste. Accurate forecas
 📌 Interpretation:  
 Price competitiveness is crucial in a highly competitive market. Regular benchmarking and dynamic pricing strategies can help retain price-sensitive customers and boost sales.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%208%20-%201.jpg)
 
 ---
 
@@ -153,7 +166,10 @@ Price competitiveness is crucial in a highly competitive market. Regular benchma
 📌 Interpretation:  
 While customer retention is strong, limited new customer acquisition could hinder long-term growth. Investment in marketing and customer acquisition strategies is necessary.
 
-![alt text](http://url/to/img.png)
+<p align="center">
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%209%20-%201.jpg" alt="IDD 1 - 1" width="500"/>
+  <img src="https://github.com/Neel-Raibole/Supply-Chain-Dashboard/blob/main/Dashboard%20Images/IDD%209%20-%202.jpg" alt="IDD 1 - 2" width="500"/>
+</p>
 
 ---
 
